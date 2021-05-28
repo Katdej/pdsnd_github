@@ -97,7 +97,7 @@ def station_stats(df):
     end_station = df['End Station'].value_counts()
     print('Most commonly used end station: ', end_station.index[0], ' Count: ', end_station[0])
 
-    combination_start_end = ('Start station: ' + df['Start Station'] +', End station: '+ df['End Station']).value_counts()
+    combination_start_end = ('Start station: '+ df['Start Station'] +', End station: '+ df['End Station']).value_counts()
     print('Most frequent combination: ', combination_start_end.index[0], ' Count: ', combination_start_end[0])
 
 
