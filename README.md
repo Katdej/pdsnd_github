@@ -8,7 +8,7 @@ US bike share data analysis
 
 ### Description
 Project allows users to explore bike share data from three different US cities:
-Chicago, New York and Washington.
+*Chicago*, *New York* and *Washington*.
 
 ### Files used
 chicago.csv
