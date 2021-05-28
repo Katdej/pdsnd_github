@@ -4,7 +4,7 @@
 This project was created on 28 May 2021.
 
 ### Project Title
-US bike share data analysis
+**US bike share data analysis**
 
 ### Description
 Project allows users to explore bike share data from three different US cities:
