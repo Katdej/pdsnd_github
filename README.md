@@ -7,10 +7,14 @@ This project was created on 28 May 2021.
 US bike share data analysis
 
 ### Description
-Describe what your project is about and what it does
+Project allows users to explore bike share data from three different US cities:
+Chicago, New York and Washington.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity materials and previous course members' questions posted
+helped me to solve the problems along the way.
